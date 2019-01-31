@@ -1,2 +1,2 @@
 
-<img src=\"quicklook.jpg\" align='left'>
+!<img src="quicklook.jpg" align='left'>
