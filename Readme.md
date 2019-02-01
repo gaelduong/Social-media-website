@@ -1,6 +1,7 @@
 
 
-
+Quick look:
+<br>
 <img src="quicklook.jpg" align='left'>
 <br>
 Newfeeds:
