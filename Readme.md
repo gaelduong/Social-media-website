@@ -13,6 +13,7 @@ A (mini) social media website similar to Facebook, Twitter on which people can r
 <br>
 <br>
 Account to demo:<br>
+<b>(Unfortunately the domain no longer exists)</b>
 Email: songoku@yahoo.com<br>
 Password: abc123<br>
 
