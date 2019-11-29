@@ -13,11 +13,10 @@ A (mini) social media website similar to Facebook, Twitter on which people can r
 <br>
 <br>
 Account to demo:<br>
-<b>(Unfortunately the domain no longer exists)</b>
 Email: songoku@yahoo.com<br>
 Password: abc123<br>
 
-http://www.mynight.site/index.php
+http://www.mynight.site/index.php <b>(Unfortunately the domain no longer exists)</b>
 
 <br>
 <img src="quicklook3.jpg" align='left'>
